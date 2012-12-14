@@ -1,3 +1,18 @@
 This is a public project.
+
 Components list:
+
 com.aep.common
+com.aep.database
+com.aep.servicesagent
+
+com.aep.server.common
+com.aep.server.keeperserver
+com.aep.server.messageservice
+com.aep.client.keeperclient
+com.aep.client.messageclient
+
+com.aep.serveradmin
+com.aep.adminclient
+
+
